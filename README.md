@@ -1,10 +1,9 @@
-# Hey, I'm Naveed Ahmed 👋
+# Hey, I'm Naveed Ahmed
 
 ### 🚀 Building AI-powered products from idea to acquisition
 
 Founder • Full-Stack Product Developer • AI Generalist
 
-## ⚡ Tech Stack
 
 ### Frontend
 
