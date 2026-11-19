@@ -1,63 +1,40 @@
-# Hey, I'm Naveed Ahmed
+## Naveed Ahmed
 
-### 🚀 Building AI-powered products from idea to acquisition
+Founder and full-stack engineer. I build AI products end to end, from the model and the API to the app people actually open.
 
-Founder • Full-Stack Product Developer • AI Generalist
+Most of my work sits where product meets applied AI: agents that act on someone's behalf, forecasting systems with honest evaluation, and the web and mobile apps around them. I care about shipping software that is tested, measured and deployed, not just demoed.
 
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?logo=shadcnui\&logoColor=white)
-
-### Backend & Infrastructure
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render\&logoColor=black)
-
-### AI & LLM
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink\&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?logo=openai\&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?logo=meta\&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?logo=elevenlabs\&logoColor=white)
-![Tavus](https://img.shields.io/badge/Tavus_AI-6D28D9?logoColor=white)
-
-### Product & Design
-
-![Framer](https://img.shields.io/badge/Framer-0055FF?logo=framer\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma\&logoColor=white)
-![RevenueCat](https://img.shields.io/badge/RevenueCat-FF6B00?logoColor=white)
-
-### Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql\&logoColor=white)
+[LinkedIn](https://linkedin.com/in/naveed-ahmed-swe) · [X](https://x.com/NaveedAhmedSWE) · [ORCID](https://orcid.org/0009-0009-8283-9857) · [Email](mailto:naveed.ahmed.swe@gmail.com)
 
 ---
 
-## 🌐 Connect With Me
+### Currently working on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveed_Ahmed-0A66C2?logo=linkedin\&logoColor=white)](https://linkedin.com/in/naveed-ahmed-swe)
+- **[LatticeX](https://github.com/Naveed-CoLab/LatticeX)**: ranks every S&P 500 stock against the market over the next 5, 20 and 60 trading days and forecasts calibrated price ranges. PyTorch ranking model, walk-forward tested across 13 years, with a pre-registered 2025–26 holdout and a live dashboard on AWS.
+- **[Kart](https://github.com/Naveed-CoLab/Kart-App)**: a trust layer for AI agents that spend money. Any agent (Claude, ChatGPT, Cursor, any MCP client) shops through Kart; the user's rules decide what gets paid and PayPal moves the money. Built for the PayPal AI Hackathon 2026.
+- **[LifeOS](https://github.com/Naveed-CoLab/LifeOS)**: a personal operating system for habits, goals and daily routines.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Naveed--CoLab-181717?logo=github\&logoColor=white)](https://github.com/Naveed-CoLab)
+### Selected work
 
-📧 [naveed.ahmed.swe@gmail.com](mailto:naveed.ahmed.swe@gmail.com)
+| Project | What it does | Built with | Link |
+| --- | --- | --- | --- |
+| [LatticeX](https://github.com/Naveed-CoLab/LatticeX) | S&P 500 ranking and price-range forecasts | Python, PyTorch, NumPy, AWS | [Live](https://3-27-118-9.sslip.io/) |
+| [Kart](https://github.com/Naveed-CoLab/Kart-App) | Spending guardrails and payments for AI shopping agents | Next.js, PayPal APIs, Claude, MCP, Postgres | [Live](https://kart-app-cmez.onrender.com) |
+| [TripSage](https://github.com/Naveed-CoLab/TripSageDeployed) | AI trip planner with database-level auditing (triggers, stored procedures, transactions) | PostgreSQL, Express, React, Node.js | |
+| [Slideshare Downloader](https://github.com/Naveed-CoLab/Slideshare-Downloader) | Free web tool for saving Slideshare decks | Web | [Live](https://slidesdownloader.pro/) |
+| [Fraud Review Dashboard](https://github.com/Naveed-CoLab/Hackathon-Dashbaord-Fraud-Detection) | Merchant transaction review with risk scoring | Next.js, shadcn/ui, Clerk | [Live](https://hackathon-dashbaord-fraud-detection.vercel.app) |
+| [CareConnect](https://github.com/Naveed-CoLab/CareConnect-Health-Bot) | AI health assistant modelled on a doctor's consultation | Flutter, Dart, Gemini API | |
+| [Algorithms Visualizer](https://github.com/Naveed-CoLab/algorithms-visualizer) | Interactive visualizations of classic algorithms | JavaScript | [Live](https://daa-algorithm-visualizer.netlify.app/) |
+
+### Stack
+
+- **Languages:** TypeScript, Python, JavaScript, SQL, Dart
+- **Frontend:** React, Next.js, React Native, Expo, Tailwind CSS, shadcn/ui
+- **Backend:** Node.js, FastAPI, PostgreSQL, Supabase, Firebase, Redis, Clerk
+- **AI / ML:** PyTorch, LangChain, RAG, FAISS, Claude and Gemini APIs, MCP, ElevenLabs
+- **Infrastructure:** Docker, AWS, Vercel, Render, GitHub Actions
+- **Product:** Figma, Framer, RevenueCat
 
 ---
 
-> 🚀 Building AI products people actually use.
+<sub>Open to conversations about AI products, agentic commerce and applied ML. Email is the fastest way to reach me.</sub>
